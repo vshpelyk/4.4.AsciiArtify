@@ -81,3 +81,5 @@ k3d дуже легко створює одно- та багатовузлові
 
 ### Демонстрація ###
 [![asciicast](https://asciinema.org/a/DPfreCmTMiyhMKqwM8JIMDqB3.svg)](https://asciinema.org/a/DPfreCmTMiyhMKqwM8JIMDqB3)
+
+<script src="https://asciinema.org/a/DPfreCmTMiyhMKqwM8JIMDqB3.js" id="asciicast-656979" async="true"></script>
