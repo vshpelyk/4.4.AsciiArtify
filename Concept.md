@@ -80,6 +80,5 @@ k3d дуже легко створює одно- та багатовузлові
 Висновок: провівши дослідження вищезгаданих інструментів для локальної розробки найкращим варіантом буде k3d. Його основними перевагами є простота і швидкість розгортання.
 
 ### Демонстрація ###
-[![asciicast](https://asciinema.org/a/DPfreCmTMiyhMKqwM8JIMDqB3.svg)](https://asciinema.org/a/DPfreCmTMiyhMKqwM8JIMDqB3)
+[![asciicast](<script src="https://asciinema.org/a/DPfreCmTMiyhMKqwM8JIMDqB3.js" id="asciicast-656979" async="true"></script>)
 
-<script src="https://asciinema.org/a/DPfreCmTMiyhMKqwM8JIMDqB3.js" id="asciicast-656979" async="true"></script>
