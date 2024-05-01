@@ -28,3 +28,10 @@ kubectl apply -n argocd -f https://raw.githubusercontent.com/argoproj/argo-cd/st
 kubectl port-forward svc/argocd-server -n argocd 8080:443&
 
 ```
+4. Заходимо в ArgoCD за посиланням https://127.0.0.1:8080/
+```sh
+# Щоб отримати пароль користувача admin
+ kubectl -n argocd get secret argocd-initial-admin-secret -o jsonpath="{.data.password}"
+kubectl -n argocd get secret argocd-initial-admin-secret -o jsonpath="{.data.password}"|base64 -d;echo  
+```
+6. 
