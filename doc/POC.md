@@ -44,7 +44,10 @@ kubectl -n argocd get secret argocd-initial-admin-secret -o jsonpath="{.data.pas
    - 5 Шлях до каталога я якому лежать маніфест файли для K8s
    - 6 Вибираємо локальний кластер
    - 7 Створюємо нове namespace - demo, потрібно поставити галояку auto-create namespace
-1. Синхронізація застосунку
+6. Синхронізація застосунку
    ![ArgoDC](https://github.com/vshpelyk/4.4.AsciiArtify/blob/main/doc/create-argocd3.png)
-2. Перевірка стану застосунка в кластері
+7. Перевірка стану застосунка в кластері
 ![ArgoDC](https://github.com/vshpelyk/4.4.AsciiArtify/blob/main/doc/create-argocd4.png)
+
+8. Демо створення застосунку в ArgoCD
+![Приклад](https://github.com/vshpelyk/4.4.AsciiArtify/blob/main/doc/poc.gif)
