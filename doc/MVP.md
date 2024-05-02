@@ -20,4 +20,4 @@ curl -F 'image=@/tmp/g.png' localhost:8081/img/
  ![Результат](https://github.com/vshpelyk/4.4.AsciiArtify/blob/main/doc/mvp1.png)
 
  - Презентація 
-  
+  ![Приклад](https://github.com/vshpelyk/4.4.AsciiArtify/blob/main/doc/mvp.gif)
